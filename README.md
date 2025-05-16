@@ -81,15 +81,15 @@ streamlit run app.py
 
 ## ✍️ Auteurs
 
-- Hafsa Moumni
+- Mourad AMOUSSA
 - Projet encadré à Ynov, Master 1 Data Science
 
 ---
 
 ## 📎 Déploiement final
 
-- Front hébergé sur **Streamlit Cloud**
-- Projet complet sur Github avec TPs + Readme détaillé ✅
+- Front en cours d'hébergement sur **Streamlit Cloud**
+- Projet complet sur Github ✅
 
 ---
 
